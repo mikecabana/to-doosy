@@ -115,9 +115,7 @@
 							type="checkbox"
 							class="nes-checkbox"
 						/>
-						<span>
-							{todo.done}
-						</span>
+						<span></span>
 					</label>
 				</div>
 			{/each}
